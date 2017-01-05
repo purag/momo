@@ -1,6 +1,6 @@
 {
-  "name": "momo",
-  "version": "1.0.0",
+  "name": "momojs",
+  "version": "1.0.1",
   "description": "A super lightweight animation library for JavaScript.",
   "main": "index.js",
   "scripts": {
