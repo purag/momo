@@ -1,0 +1,24 @@
+{
+  "name": "momo",
+  "version": "1.0.0",
+  "description": "A super lightweight animation library for JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purag/momo.git"
+  },
+  "keywords": [
+    "animation",
+    "motion",
+    "graphics"
+  ],
+  "author": "Purag Moumdjian <me@purag.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purag/momo/issues"
+  },
+  "homepage": "https://github.com/purag/momo#readme"
+}
