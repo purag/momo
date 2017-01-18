@@ -1,4 +1,4 @@
-# momo
+# momo [![npm version](https://badge.fury.io/js/momojs.png)](https://npmjs.com/package/momojs)
 A super lightweight animation library for JavaScript.
 
 ## Usage
